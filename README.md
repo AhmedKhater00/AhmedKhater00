@@ -15,8 +15,9 @@ You can contact me via email at [khatermedo664@gmail.com](mailto:khatermedo664@g
 ## 😄 Pronouns:
 He/Him
 
-## ⚡ Fun fact:
-I enjoy exploring new data visualization tools and recently started using Folium for creating interactive maps!
+## ⚡ Fun facts:
+- I enjoy exploring new data visualization tools, including Folium for creating interactive maps.
+- I am learning to use Power BI to connect to data sources and transform them into meaningful insights.
 
 ## 🧑‍🎓 Experience:
 
@@ -47,6 +48,12 @@ During my internship, I applied data analysis and business intelligence techniqu
 - Prepare Excel data for analysis in Power BI using common formulas and functions.
 - Use the visualization and report capabilities of Power BI to create compelling reports and dashboards.
 - Complete a capstone project and prepare for the Microsoft PL-300 Certification exam.
+
+### Power BI Capabilities:
+- **Data Connection**: Connect to various data sources (Excel, SQL databases, etc.) to import and analyze data.
+- **Data Transformation**: Clean and transform data using Power Query for efficient analysis.
+- **Visualizations**: Create interactive dashboards and reports with a wide range of visualization options.
+- **Data Sharing**: Share reports and dashboards with stakeholders through the Power BI service.
 
 ### IBM Data Analyst Professional Certificate
 - Master practical skills and tools used by data analysts in daily roles.
